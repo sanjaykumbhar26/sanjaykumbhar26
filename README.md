@@ -3,7 +3,7 @@ Hi 👋 My name is Sanjay kumbhar
 
 * 🌍  I'm based in india
 * 🖥️  See my portfolio at [My Portfolio](http://websanju.com/)
-* ✉️  You can contact me at [webvedkumbhar@gmail.com](mailto:webvedkumbhar@gmail.com)
+* ✉️  You can contact me at [stakedesigner.com@gmail.com](mailto:webvedkumbhar@gmail.com)
 * 🚀  I'm currently working on [My Blog](http://stakedesigner.com/)
 * 🧠  I'm learning PHP
 * 🤝  I'm open to collaborating on Social Marketing Concept
